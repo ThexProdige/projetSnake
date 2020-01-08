@@ -1,0 +1,22 @@
+
+canvas{
+    position: absolute;
+    border: 5px solid #BADA55;
+    
+}
+p,
+label{
+    position: relative;
+    left: 850px;
+    font: 1rem 'Fira Sans', sans-serif;
+    
+}
+input {
+    position: relative;
+    left : 850px;
+    margin: .4rem;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
