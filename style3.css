@@ -1,0 +1,61 @@
+h1
+{
+    color: yellow;
+}
+p
+{
+    color: green;
+}
+li
+{
+	color: yellow;
+}
+p
+{
+    font-size: 20px; /* Paragraphes de 20 pixels */
+}
+h1
+{
+    font-size: 60px; /* Titres de 60 pixels */
+}
+li
+{
+    font-size: 25px; /* Tailles de 25pixels */
+}
+p
+{
+    font-family: "impact", comics sans ms, arial black, sans-serif ;
+}
+h1
+{
+	font-family: impact, "comics sans ms", arial black, sans-serif ;	
+}
+li
+{
+	 font-family: impact, comics sans ms, "arial black", sans-serif ;
+}
+body
+{
+    background-color: black; /* Le fond de la page sera noir */
+}
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+h1
+{
+    border: 3px green dashed;
+}
+h1
+{
+    text-shadow: 8px 8px 6px green;
+}
+a:active /* Quand le visiteur clique sur le lien */
+{
+    background-color: #FFCC66;
+}
